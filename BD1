@@ -2,11 +2,19 @@ Banco de dados:
 Conjunto de arquivos interligados
 
 
-BD  => Conj arq
-            !!
-            `´
-      { estrutura
-       Modelo de dados//Modelo Conceitual => Modelo logico => Modelo Fisicos}
+BD  => Conj arq => (estrutura // Modelo de dados = Modelo Conceitual => Modelo logico => Modelo Fisicos)
 
 Modelagem Entidade - Relacionamento
 Entidade = Uma entidade é um objeto da realidade que esta sendo modelada e do qual eu preciso guardar informações no banco dados 
+Relacionamento = a forma da qual as informações se inter-relacionam
+
+
+"Se algo tem informações então isso é uma entidade" 
+
+1- identificar as ENTIDADES e os RELACIONAMENTOS para os seguintes casos, em seguida, crie o diagrama E-R
+   
+VENDAS: Precisa-se construir um banco de dados para um sistema de vendas. Em cada venda são vendidos vários produtos e um determinado produto pode aparecer em várias vendas. Cada venda é efetuada por um vendedor para um determinado cliente. O produto está armazenado em uma determinada prateleira.
+
+CONDOMÍNIOS: Uma administradora de imóveis trabalha com condomínios e aluguéis. Após uma breve entrevista, conheceu-se as seguintes informações:
+
+A administradora administra condomínios formados por unidades. Cada unidade condominial é de propriedade de uma ou mais pessoas. Cada pessoa pode possuir diversas unidades. Cada unidade pode estar locada para apenas uma pessoa. Uma pessoa pode alugar várias unidades.
