@@ -1,0 +1,12 @@
+Banco de dados: 
+Conjunto de arquivos interligados
+
+
+BD  => Conj arq
+            !!
+            `´
+      { estrutura
+      {Modelo de dados//Modelo Conceitual => Modelo logico => Modelo Fisicoz
+
+Modelagem Entidade - Relacionamento
+Entidade = Uma entidade é um objeto da realidade que esta sendo modelada e do qual eu preciso guardar informações no banco dados 
