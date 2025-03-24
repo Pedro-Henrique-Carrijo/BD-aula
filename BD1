@@ -18,3 +18,5 @@ VENDAS: Precisa-se construir um banco de dados para um sistema de vendas. Em cad
 CONDOMÍNIOS: Uma administradora de imóveis trabalha com condomínios e aluguéis. Após uma breve entrevista, conheceu-se as seguintes informações:
 
 A administradora administra condomínios formados por unidades. Cada unidade condominial é de propriedade de uma ou mais pessoas. Cada pessoa pode possuir diversas unidades. Cada unidade pode estar locada para apenas uma pessoa. Uma pessoa pode alugar várias unidades.
+
+CARDINALIDADE: É a quantidade de ocorrencias que estão associadas em um relacionamento
